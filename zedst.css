@@ -20,7 +20,7 @@
         width:300px;
         text-align: left;
         margin-left:500px ;
-        background-color:rgba(255,255,255, 0.3);
+        background-color:rgba(185, 61, 223, 0.3);
         margin-top: 70px;
         backdrop-filter:blur(10px);
         border-radius:20px;
@@ -53,7 +53,7 @@
         height:auto;  
 }
     .sudlanan h1{
-        text-shadow: 2px 2px 5px rgb(75, 19, 81);
+        text-shadow: 2px 2px 5px rgb(219, 97, 233);
         color:rgb(0, 0, 0);
          animation:float 5s infinite;
        .radio{
